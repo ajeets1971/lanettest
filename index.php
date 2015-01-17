@@ -21,7 +21,7 @@
 	define('ENVIRONMENT', 'development');
 /*
  *---------------------------------------------------------------
- * ERROR REPORTING
+ showing changes
  *---------------------------------------------------------------
  *
  * Different environments will require different levels of error reporting.
